@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of a letter from an English gentleman in the Emperour's army, to an English officer in Holland concerning the total rout of the Turks by the united forces of the Christians, commanded in person by the Emperour, the King of Poland, and Duke of Lorain.</title>
+            <author>Whitebrook, A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65813</idno>
+            <idno type="STC">Wing W1861A</idno>
+            <idno type="STC">ESTC R20283</idno>
+            <idno type="EEBO-CITATION">12444118</idno>
+            <idno type="OCLC">ocm 12444118</idno>
+            <idno type="VID">62175</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62175)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 301:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of a letter from an English gentleman in the Emperour's army, to an English officer in Holland concerning the total rout of the Turks by the united forces of the Christians, commanded in person by the Emperour, the King of Poland, and Duke of Lorain.</title>
+                  <author>Whitebrook, A.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Mallet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1683?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: A. Whitebrook.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>John --  III Sobieski, --  King of Poland, 1629-1696.</term>
+               <term>Charles --  V, --  Duke of Lorraine, 1643-1690.</term>
+               <term>Leopold --  I, --  Holy Roman Emperor, 1640-1705.</term>
+               <term>Turco-Polish Wars, 1683-1699.</term>
+               <term>Austro-Turkish War, 1683-1699.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:62175:1"/>
+            <pb facs="tcp:62175:1" rendition="simple:additions"/>
+            <head>A TRUE COPY OF A LETTER From an Engliſh Gentleman in the Emperour's Army, to an Engliſh Officer in <hi>Holland,</hi> concerning the Total Rout of the Turks, by the United Forces of the Chriſtians, Com<g ref="char:EOLhyphen"/>manded in perſon, by the Emperour, the King of <hi>Poland,</hi> and Duke of <hi>Lorain.</hi>
+            </head>
+            <p>I Cannot expreſs my ſelf in words ſuitable to the great deli<g ref="char:EOLhyphen"/>verance it hath pleaſed God to give the Nation, and Empire of the Germans, from the Cruelties and Barba<g ref="char:EOLhyphen"/>rieties it groaned under, by the Savage Violences of Turk<g ref="char:EOLhyphen"/>iſh Inſidels, in Conjunction with a worſe ſort of Menthan them<g ref="char:EOLhyphen"/>ſelves, who outwardly pretend a Belief of the Bleſſed <hi>Jeſus</hi> when at the ſame time, their Power, Induſtry, and Council tends to no leſs than the Total Extirpation of Chriſtianity, and the ſetting up its common Enemy Mahumetiſm; under the ſame Notion of the old Rebels in <hi>England(Viz.)</hi> (for the True <hi>Proteſtant Religion.</hi>) There being in the <hi>Hungarian</hi> Na<g ref="char:EOLhyphen"/>tion two Sects of Proteſtants, <hi>Viz. Lutherans,</hi> and <hi>Calviniſts,</hi> the latter of which, claiming the ſaid <hi>Epithet</hi> under the Banner of the Horrid Impoſture and great Idol of the Eaſt <hi>(Mahomet)</hi> I could do no leſs than make this little ſhort Reflection, becauſe it to me ſeems a Remark of ſo near a Parrallel with ſome practices in my own Country, the Reſpect I bear to it, would not ſuffer me to be ſilent in the laid particulars.</p>
+            <p>The King of <hi>Poland,</hi> with a Royal Army attending him, arrived at our Camp, the Emperour having cauſed all neceſſa<g ref="char:EOLhyphen"/>ry Proviſions, to be made for his Royal Majeſties Reception, before which, ſeveral conſiderable Reinforcements, were ar<g ref="char:EOLhyphen"/>rived, being part of the <hi>Auxiliary</hi> Troops of the Empire, of which great Numbers are on their March from all the Remo<g ref="char:EOLhyphen"/>teſt parts of the Empire: immediately after his Majeſty of <hi>Po<g ref="char:EOLhyphen"/>land</hi> was arrived a great Council of War was held in the Em<g ref="char:EOLhyphen"/>perours Tent; which being ended, prayers were publickly of<g ref="char:EOLhyphen"/>fered throughout the Camp, for a Succeſs upon the Endea<g ref="char:EOLhyphen"/>vours of the United Arms, of the Chriſtians againſt the
+<pb n="2" facs="tcp:62175:2"/>Turks and Infidels, which being ended, immediately the whole Army, by Order, was on its March towards the Enemy; who lay in Seige before <hi>Vienna</hi> according to common Compu<g ref="char:EOLhyphen"/>tation 150000 ſtrong at leaſt: the Army marched in three Batalias, the Body Commanded by the Emperour in perſon; the right wing by his Majeſty of <hi>Poland,</hi> and the left by his High<g ref="char:EOLhyphen"/>neſs of <hi>Lorain,</hi> in which poſture we marched with all im<g ref="char:EOLhyphen"/>maginable Silence towards <hi>Vienna:</hi> The City having at we fame time notice that we were approaching, and as ſoon as we came to diſcern the Enemies Leagure, the City gave us a Signal, which in half an hours time was ſeconded with a Reſolute ſally; in which many Thouſ<g ref="char:EOLhyphen"/>ands of the <hi>Turks</hi> were ſlain, with very ſmall loſs on the Chriſtians ſide. The <hi>Turks</hi> ſeeming to be in great Conſter<g ref="char:EOLhyphen"/>nation upon the ſight of the unexpected numbers of the Chriſtian Army, before the ſaid Salley was ended, part of Our Army under his Highneſs of <hi>Loraine</hi> were engaged and ſoon after the Groſſe of both Armies, the diſpute being for ſeverall hours very ſharp and hot; but in the end it ſo pleaſed God, that our Arms prevailed againſt the Infidels we having kill'd above thirty Thouſand upon the ſpot, and taken near half as many Priſoners and all their Ar<g ref="char:EOLhyphen"/>tillery and Baggage which vvere very great and numerous and Totally broke the vvhole Army of the Turks, vvhich our Horſe continue to purſue vvith great ſlaughter, and all this was done by the Aſſiſtance of the Almighty with inconſiderable loſs on the Chriſtians ſide, and it is the opinion of moſt of our Experienced Commanders here in Camp, that very few of the Turks will Eſcape of being taken or killed. The Enemy being fled divers of our Offi<g ref="char:EOLhyphen"/>cers went into the City and great numbers of the Citi<g ref="char:EOLhyphen"/>zens came to veiw our Camp, their countenances beſpeak<g ref="char:EOLhyphen"/>ing they had been neither in fear of the Enemy nor any want of neceſſary Proviſions. We are now buſied in de<g ref="char:EOLhyphen"/>ſtroying the Enemys works about the City; and in my next I may give you a more particular Account of the whole Affair: in the mean time be pleaſed to accept of this, as</p>
+            <closer>
+               <signed>from your much Obliged and Faithfull Friend. <hi>and Servant A Whitebrook,</hi>
+               </signed>
+               <dateline>Imperial Camp near <hi>Vienna,</hi> 
+                  <date>
+                     <hi>Aug. the</hi> 31th.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed by <hi>E Mallet.</hi>
+            </p>
+            <pb facs="tcp:62175:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
